@@ -10,7 +10,6 @@ Jeg koder greier.
 ![Stats](https://github-readme-stats.vercel.app/api?username=GaredJr\&show_icons=true\&hide_title=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaredJr\&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaredJr&layout=compact&theme=dark)
 
 ## Streaks
 
@@ -30,6 +29,4 @@ Jeg koder greier.
 **Discord:** garedjr
 
 ---
-
-*Oppdater den her når du vil, legg til mer showoff eller fjern ting du ikke liker.*
 
