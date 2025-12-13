@@ -1,5 +1,5 @@
 
-# Hi, I'm GaredJr
+# GaredJr
 
 ## About Me
 
