@@ -7,17 +7,11 @@ Jeg koder greier.
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=GaredJr\&show_icons=true\&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaredJr\&layout=compact)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/GaredJr?cardType=level-alternate&theme=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## Streaks
 
 ![Streak](https://streak-stats.demolab.com?user=GaredJr)
-
-## Trophy Wall
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=GaredJr\&theme=onedark\&margin-w=10)
 
 ## Stuff I Work On
 
